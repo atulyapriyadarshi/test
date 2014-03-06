@@ -22,7 +22,7 @@
     'name' : 'Fleet Management',
     'version' : '0.1',
     'author' : 'OpenERP S.A.',
-    'category': 'Managing vehicles and contracts just i am checking',
+    'category': 'Managing vehicles and contracts just i am checkinggggggg',
     'website' : 'http://www.openerp.com',
     'summary' : 'Vehicle, leasing, insurances, costs',
     'description' : """
