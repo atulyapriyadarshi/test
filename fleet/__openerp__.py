@@ -19,7 +19,7 @@
 #
 ##############################################################################
 {
-    'name' : 'Fleet Management',
+    'name' : 'the Fleet Management',
     'version' : '0.1',
     'author' : 'OpenERP S.A.',
     'category': 'Managing vehicles and contracts just i am checkinggggggg',
